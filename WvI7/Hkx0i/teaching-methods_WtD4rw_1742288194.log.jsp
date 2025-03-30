@@ -63,7 +63,6 @@
                         </div>
                         <h2>Login Here</h2>
                         <div class="form-input">
-                            <input type="password" name="password" placeholder="Password" required>
                         </div>
                         <p style="color:red">
                             <%
