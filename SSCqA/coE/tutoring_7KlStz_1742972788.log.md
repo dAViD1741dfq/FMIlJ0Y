@@ -75,7 +75,6 @@ These functions are:
 - `Planning` and `Lesson` format is now instructed to strictly follow the `configuration_reminder` format
 - `Planning` now has "Assumptions" where GPT-4 will try to predict what the student already knows based on the depth level.
 - Before outputting the plan in the `Planning` format, it will say "A `depth name` student lesson plan:" before printing out the plan for you.
-- `Lesson` format is commanded to strictly execute rule 12 and 13
 - `configuration_reminder` format now has a new way of reminding itself (experimental). It should expectedly follow the student's preferences more.
 - `Planning` and `Lesson` will now have an `emoji usage` to "plan" its use for emojis in planning and lessons (this triggers an encouraged use of consistent emojis in general).
 - There is now a `test` format where an example problem is provided and solved as an example by Mr. Ranedeer, then it will provide problems for the student to solve.
