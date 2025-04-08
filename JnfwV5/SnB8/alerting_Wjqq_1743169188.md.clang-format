@@ -69,7 +69,6 @@ IncludeCategories:
   - Regex: '.*'
     Priority: 1
 IncludeIsMainRegex: '(Test)?$'
-IndentCaseLabels: true
 #IndentPPDirectives: None # Unknown to clang-format-5.0
 IndentWidth: 4
 IndentWrappedFunctionNames: false
