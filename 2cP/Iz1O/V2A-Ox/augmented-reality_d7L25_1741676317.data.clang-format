@@ -5,7 +5,6 @@ AllowShortBlocksOnASingleLine: false
 AllowShortCaseLabelsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: None
 AllowShortIfStatementsOnASingleLine: false
-AllowShortLoopsOnASingleLine: false
 BinPackArguments: false
 ColumnLimit: 80
 # This breaks async functions sometimes, see
